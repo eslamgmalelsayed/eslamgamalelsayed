@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslamgmalelsayed" alt="eslamgmalelsayed" /></a> </p>
 
-- 🔭 I’m currently working at [Ministry of justice](Najiz.sa)
+- 🔭 I’m currently working at [Ministry of justice SA](Najiz.sa)
 
 - 👨‍💻 All of my projects are available at [https://eslamgmalelsayed.github.io/portfolio](https://eslamgmalelsayed.github.io/portfolio)
 
